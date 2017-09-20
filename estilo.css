@@ -1,0 +1,95 @@
+body{
+    padding: 50px
+    border-top:22px;
+    background:#d4d4d4;
+}
+ .list-img{
+            width:250px;
+            height:150px;
+            margin:20px;
+            
+        }
+        .esp{
+            margin-top:20px; 
+        }
+.back{
+    background:#686868;
+    border-radius:10px;
+    margin-top:20px;
+}
+
+.botao_list{
+ height:30px;
+ width:30px;
+ margin:4px; 
+    
+}
+.fundo{
+  background:#696969;
+  border-radius:24px;     
+}
+#a {
+    color: gold;
+    text-decoration: none;
+}
+col-md-9{
+    margin-right:10px;
+}
+.center{
+ text-align:center;   
+}
+
+#rolagem{
+    
+            background-color: aliceblue;
+            font-family: arial; 
+        }
+        .lan{
+         height:200px;
+         width:200px;
+            
+}
+        .lancamentos{
+        font: 25px 'gothBold';
+        color: #fff;
+        display: block;
+        }
+        .top-padrao {
+        background-color: #868686;
+        border-radius: 7px 7px 0 0;
+        height:50px;
+        width:100%;
+        overflow:hidden;
+        text-align: center;
+        }
+        .tabela{
+            margin-top:10px;
+            margin-left:10px;
+            width: 230px;
+            height: 100px;
+            text-align: center;
+            background:#868686;
+            border-top-right-radius:20px;
+            border-bottom-left-radius:20px;
+            color: aliceblue;
+            padding:10px;
+            
+            
+         
+        }
+      .image{
+          height:100px;
+          width:100px;
+
+        }
+    .table{
+      background:#868686;
+    }
+
+
+.slide{
+    height:700px;
+}
+
+    
+
